@@ -1,0 +1,10 @@
+[package]
+name = "awfultypes"
+version = "0.1.0"
+authors = ["Fox Box <foxboxpdx@gmail.com>"]
+description = "Three terrible datatypes that will make anyone who sees you include them very sad"
+publish = false
+license = "Apache-2.0"
+
+[dependencies]
+rand = "0.7"
